@@ -1,5 +1,5 @@
 --- 
-title: "Answering Questions with Data: Lab Manual"
+title: "Business Data Literacy: Lab Manual"
 author: 
 - "Dawn E Wright"
 date: "2021"
@@ -36,12 +36,14 @@ knitr::include_graphics("LabmanualCover.png")
 First Draft (version 0.9 = Sept 21, 2021)
 
 
-This is the companion lab to our free introductory statistics for undergraduate business students textbook, [Answering questions with data](https://crumplab.github.io/statistics/).
+This is the companion lab to our free data literacy for undergraduate business students textbook, [Business Data Literacy](https://drdawnstats.github.io/bus_data_lit_text/).
 
 This lab manual involves step by-step tutorials to solve data-analysis problems using R and RStudio open source software. 
 
-This lab manual is adapted from and based upon the PSYC 3400 Lab Manual by Matthew J. C. Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga.
+This lab manual is adapted in part from upon the PSYC 3400 Lab Manual by Matthew J. C. Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga.
 [Answering questions with data: Lab Manual](https://www.crumplab.com/statisticsLab/index.html)
+
+Additions and changes to the PSYC 3400 Lab Manual are indicated within the manual.
 
 The lab manual is a free and open resource. See below for more information about copying, making change, or contributing to the lab manual.
 
@@ -84,7 +86,7 @@ If you want to contribute to this version of the lab manual, you could make pull
 
 ### Acknowledgments
 
-Thanks to the librarians at Brooklyn College of CUNY, especially Miriam Deutch, and Emily Fairey, for their support throughout the process. Thanks to CUNY for supporting OER development, and for the grant we received to develop this work.
+Thanks to Dr. Crump and his team for creating such a great resource.
 
 # Software {-}
 

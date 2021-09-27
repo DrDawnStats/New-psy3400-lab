@@ -100,11 +100,11 @@ Data files used for the labs are all taken from open data sources. Links are pro
 
 ### Data Repository
 
-[https://github.com/CrumpLab/statisticsLab/tree/master/data](https://github.com/CrumpLab/statisticsLab/tree/master/data)
+[https://github.com/DrDawnStats/new_stats-lab/tree/main/data](https://github.com/DrDawnStats/new_stats-lab/tree/main/data)
 
 ### CSV format
 
-All of the data files in .csv format are also available to [download as a .zip file](https://raw.githubusercontent.com/CrumpLab/statisticsLab/master/data/data_csv.zip)
+All of the data files in .csv format are also available to [download as a .zip file](https://github.com/DrDawnStats/new_stats-lab/blob/main/data/data_csv.zip)
 
 ## R
 

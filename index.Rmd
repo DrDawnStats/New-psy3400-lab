@@ -146,9 +146,10 @@ You will need to download and install both R and RStudio. Although you can go to
 Here is the link to the R Project website:  <http://www.r-project.org>
 
 I suggest using the RStudio website to get both R and RStudio. 
-Find the download R using the link. This will take you to a page with many different mirror links. You can click any of these links to download a version of R that will work on your computer. After you have installed R you can continue.
 
-After you have installed R on your computer, you should want to install another program called RStudio. This program provides a user-friendly interface for using R. You must already have installed R before you perform this step. 
+
+After you have installed R on your computer, you should want to install another program called RStudio. This program provides a user-friendly interface for using R. 
+
 The RStudio website is: <http://www.rstudio.com> This site will give you plenty of background information about RStudio, but you can get lost in the many options. We are going to use the free - repeat free - desktop version. 
 
 This link should take you to a page where you can find download links for various types of computers.

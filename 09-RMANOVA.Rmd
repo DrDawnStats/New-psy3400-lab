@@ -29,6 +29,9 @@ It always seems impossible until its done.
 
 
 ##Legacy info below
+
+
+
 This lab activity uses the data from Behmer & Crump (2017) to teach one-factor repeated measures ANOVA with-up follow comparisons
 
 ### STUDY DESCRIPTION

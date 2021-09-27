@@ -147,18 +147,14 @@ Here is the link to the R Project website:  <http://www.r-project.org>
 
 I suggest using the RStudio website to get both R and RStudio. 
 
-
-After you have installed R on your computer, you should want to install another program called RStudio. This program provides a user-friendly interface for using R. 
+After you have installed R on your computer, you should  install another program called RStudio. This program provides a user-friendly interface for using R. 
 
 The RStudio website is: <http://www.rstudio.com> This site will give you plenty of background information about RStudio, but you can get lost in the many options. We are going to use the free - repeat free - desktop version. 
 
-This link should take you to a page where you can find download links for various types of computers.
+This link should take you to a page where you can find download links for various types of computers. <https://www.rstudio.com/products/rstudio/download/#download>
 
 Find the download link on the front-page, and then download R studio desktop version for your computer. After you have installed R studio you will be ready to start using R.
 
-<div class="marginnote">
-The website [R-fiddle](http://www.r-fiddle.org) allows you to run R scripts in the cloud, so you can practice R from your web-browser!
-</div>
 
 ### R studio notes and tips
 

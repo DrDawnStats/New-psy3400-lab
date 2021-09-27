@@ -33,7 +33,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 knitr::include_graphics("LabmanualCover.png")
 ```
 
-First Draft (version 0.9 = Sept 21, 2021)
+Preliminary Version 0.91 = Sept 27, 2021)
 
 
 This is the companion lab to our free data literacy for undergraduate business students textbook, [Business Data Literacy](https://drdawnstats.github.io/bus_data_lit_text/).
@@ -118,18 +118,6 @@ knitr::include_graphics('figures/rlogo.jpg')
 In this course we will be using R as a tool to analyze data, and as a tool to help us gain a better understanding of what our analyses are doing. Throughout each lab we will show you how to use R to solve specific problems, and then you will use the examples to solve homework and lab assignments. R is a very deep programming language, and in many ways we will only be skimming the surface of what R can do. Along the way, there will be many pointers to more advanced techniques that interested students can follow to become experts in using R for data-analysis, and computer programming in general.
 
 R is primarily a computer programming language for statistical analysis. It is *free*, and *open-source* (many people contribute to developing it), and runs on most operating systems. It is a powerful language that can be used for all sorts of mathematical operations, data-processing, analysis, and graphical display of data. I even used R to write this lab manual. And, I use R all the time for my own research, because it makes data-analyis fast, efficient, transparent, reproducible, and exciting.
-
-<div class="marginnote">
-Statistics Software
-
--   [SPSS](http://www-01.ibm.com/software/analytics/spss/)
--   [SAS](http://www.sas.com/en_us/home.html)
--   [JMP](http://www.jmp.com)
--   [R](http://www.r-project.org)
--   [Julia](http://julialang.org)
--   [Matlab](http://www.mathworks.com/products/matlab/)
-
-</div>
 
 ### Why R?
 

@@ -365,3 +365,5 @@ practice-problems-9
 jamovi-9
 lab-9-final-project
 the-final-project-requirements-is-under-development
+lab-10-not-used
+lab-11-not-used

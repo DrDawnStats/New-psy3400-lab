@@ -41,7 +41,7 @@ This is the companion lab to our free data literacy for undergraduate business s
 This lab manual involves step by-step tutorials to solve data-analysis problems using R and RStudio open source software. 
 
 This lab manual is adapted in part from upon the PSYC 3400 Lab Manual by Matthew J. C. Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga.
-[Answering questions with data: Lab Manual](https://www.crumplab.com/statisticsLab/index.html)
+[Answering questions with data: Lab Manual](https://drdawnstats.github.io/new_stats-lab/)
 
 Additions and changes to the PSYC 3400 Lab Manual are indicated within the manual.
 
@@ -77,7 +77,7 @@ This lab manual was written in R-Studio, using R Markdown, and compiled into a w
 
 All of the source code for compiling the book is available in the GitHub repository for this book:
 
-[https://github.com/CrumpLab/statisticsLab](https://github.com/CrumpLab/statisticsLab)
+[https://github.com/DrDawnStats/new_stats-lab](https://github.com/DrDawnStats/new_stats-lab)
 
 In principle, anybody could fork or otherwise download this repository. Load the Rproj file in R-studio, and then compile the entire book. Then, the individual .rmd files for each chapter could be edited for content and style to better suit your needs.
 

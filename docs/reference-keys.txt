@@ -367,3 +367,6 @@ lab-9-final-project
 the-final-project-requirements-is-under-development
 lab-10-not-used
 lab-11-not-used
+lab-7-one-way-anova
+lab-6a-t-test-one-sample-paired-sample
+lab-6b-t-test-independent-sample

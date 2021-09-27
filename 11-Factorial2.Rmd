@@ -1,4 +1,4 @@
-# Lab 11: Not used
+# Lab 11: Not Used
 
 <script>
 $("#coverpic").hide();

@@ -1,4 +1,4 @@
-# Lab 8 One-way ANOVA
+# Lab 7 One-way ANOVA
 
 <script>
 $("#coverpic").hide();

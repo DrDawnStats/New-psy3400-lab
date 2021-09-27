@@ -9,7 +9,7 @@ It always seems impossible until its done.
 ---Nelson Mandela
 </span>
 
-## The Final Project requirements is under development;
+## The Final Project requirements is under development:
 
 
 
@@ -28,7 +28,7 @@ It always seems impossible until its done.
 
 
 
-##Legacy info below
+#Legacy info below - Ignore all below this point
 
 
 

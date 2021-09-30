@@ -1,4 +1,4 @@
-# Lab 7 ANOVA
+# Lab 8 Personal Data Project
 
 <script>
 $("#coverpic").hide();
@@ -10,13 +10,18 @@ The analysis of variance is not a mathematical theorem, but rather a convenient 
 </span>
 
 
-<div class="marginnote">
-This lab is modified and extended from [Open Stats Labs](https://sites.trinity.edu/osl). Thanks to Open Stats Labs (Dr. Kevin P. McIntyre) for their fantastic work.
-</div>
+## Under Development
 
-## How to not think about bad memories by playing Tetris
 
-This lab activity uses the open data from Experiment 2 of James et al. (2015) to teach one-way ANOVA with planned comparisons. Results of the activity provided below should exactly reproduce the results described in the paper.
+
+
+
+
+
+
+
+
+
 
 ### STUDY DESCRIPTION
 

@@ -1,4 +1,4 @@
-# Lab 3: Correlation
+# Lab 3: Correlation and Regression
 
 <script>
 $("#coverpic").hide();

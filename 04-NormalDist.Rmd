@@ -1,4 +1,4 @@
-# Lab 4: Normal Distribution & Central Limit Theorem
+# Lab 4: Normal Distribution and Central Limit Theorem
 
 <script>
 $("#coverpic").hide();

@@ -1,4 +1,4 @@
-# Lab 5: Fundamentals of Hypothesis Testing
+# Lab 5: Basics of Hypothesis Testing
 
 <script>
 $("#coverpic").hide();

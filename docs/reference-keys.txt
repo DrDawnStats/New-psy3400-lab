@@ -370,3 +370,4 @@ lab-11-not-used
 lab-7-one-way-anova
 lab-6a-t-test-one-sample-paired-sample
 lab-6b-t-test-independent-sample
+rstudio

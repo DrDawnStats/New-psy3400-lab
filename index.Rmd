@@ -127,15 +127,19 @@ For example, once the data is loaded, all you have to do is click a couple butto
 
 Another option, is to use a scripting language to instruct the computer how reformat the data. This is very fast and efficient. R provides the ability to everything all in one place. You can load in data, reformat it any way you like, then anlayze it anyway you like, and create beautiful graphs and tables (publication quality) to display your findings. Once you get the hang of R, it becomes very fast and efficient.
 
+### RStudio
+
+RStudio provides a more user-friendly interface for many people. 
+
 ### Installing R and R Studio
 
-You will need to download and install both R and RStudio. Although you can go to the R Project website and install R from there, you can also go directely to the RStudio webpage and get links to install both R and RStudio.
+You will need to download and install both R and RStudio. Although you can go to the R Project website and install R from there, you can also go directly to the RStudio webpage and get links to install both R and RStudio.
 
 Here is the link to the R Project website:  <http://www.r-project.org>
 
 I suggest using the RStudio website to get both R and RStudio. 
 
-After you have installed R on your computer, you should  install another program called RStudio. This program provides a user-friendly interface for using R. 
+
 
 The RStudio website is: <http://www.rstudio.com> This site will give you plenty of background information about RStudio, but you can get lost in the many options. We are going to use the free - repeat free - desktop version. 
 

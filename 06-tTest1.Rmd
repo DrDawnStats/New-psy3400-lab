@@ -449,15 +449,5 @@ General grading.
 - If your answer is generally correct but very difficult to understand and unclear you may receive half points for the question
 
 
-### Practice Problems
 
-___
-
-
-1. Use the data file from this lab tutorial to test whether the number of frames the baby spent gazing at the familiar song is significantly different than the number of frames spent gazing at the unfamiliar song (use alpha = .05). Report your results in proper statistical reporting format.
-
-2. Graph this result (including 1 SEM error bars) as a bar graph.
-
-
-3. Compute a new variable representing the difference in number of frames the baby spent gazing between the familiar and unfamiliar song conditions. Test this difference score against a mean of 0 (use alpha=.05). Report your results in proper statistical reporting format.
 

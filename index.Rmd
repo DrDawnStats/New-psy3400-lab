@@ -1,7 +1,7 @@
 --- 
 title: "Business Data Literacy: Lab Manual"
 author: 
-- "Dawn E Wright"
+- "Dawn E. Wright"
 date: "2021"
 site: bookdown::bookdown_site
 output: 
@@ -38,7 +38,7 @@ Preliminary Version 0.91 = Sept 27, 2021)
 
 This is the companion lab to our free data literacy for undergraduate business students textbook, [Business Data Literacy](https://drdawnstats.github.io/bus_data_lit_text/).
 
-This lab manual involves step by-step tutorials to solve data-analysis problems using R and RStudio open source software. 
+This lab manual involves step by-step tutorials to solve data-analysis problems using R and RStudio open source software. Students can also choose to use RStudio Cloud. 
 
 This lab manual is adapted in part from upon the PSYC 3400 Lab Manual by Matthew J. C. Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga.
 [Answering questions with data: Lab Manual](https://drdawnstats.github.io/new_stats-lab/)
@@ -135,7 +135,7 @@ RStudio provides a more user-friendly interface for many people.
 
 R-studio is also in the cloud. This means that if you want to use R and R-studio through your web-browser you can do that without even installing R or R-studio on your computer. It's also free! One slight disadvantage, which will not likely apply to students in this course, is that there is a limit (25 hours) to how much free time you get with the free version of RStudio Cloud. This usually becomes a problem only if a student gets "into" R/RStudio and ventures out into their own projects. But even then, if you do not want to buy additional time [called the Plus plan at $5 per month for an additional 75 hours] you can always download your work to your local computer and use RStudio Desktop.
 
-1. sign up for an R-studio cloud account here: [https://rstudio.cloud](https://rstudio.cloud)
+1. sign up for an R-studio cloud account here: [https://rstudio.cloud](https://rstudio.cloud) You want the Cloud Free plan.
 
 2. You can make new R projects, work inside them, and everything is saved in the cloud!
 
@@ -283,23 +283,8 @@ To get started with Lab 1, follow these steps:
 
 Each lab template .rmd file contains three main sections, one for each part of the lab. You will write things inside each section to complete the lab.
 
-### Screencast tutorial
 
-Follow this guide to get up running for Lab 1.
 
-### R-studio Cloud
-
-R-studio is also in the cloud. This means that if you want to use R and R-studio through your web-browser you can do that without even installing R or R-studio on your computer. It's also free!
-
-1. sign up for an R-studio cloud account here: [https://rstudio.cloud](https://rstudio.cloud)
-
-2. You can make new R projects, work inside them, and everything is saved in the cloud!
-
-3. To see how everything would work, follow the steps in this video. You will need to download this [.zip file to your computer to get started](https://github.com/CrumpLab/statisticsLab/raw/master/RstudioCloud.zip)
-
-The link to the video is [https://www.youtube.com/watch?v=WsbnV0t7FE4](https://www.youtube.com/watch?v=WsbnV0t7FE4), or you can watch it here:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WsbnV0t7FE4?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 

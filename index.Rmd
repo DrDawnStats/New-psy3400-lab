@@ -2,7 +2,7 @@
 title: "Business Data Literacy: Lab Manual"
 author: 
 - ""
-date: "2021"
+date: "9/30/2021"
 site: bookdown::bookdown_site
 output: 
   bookdown::gitbook:
@@ -40,7 +40,7 @@ This is the companion lab to our free data literacy for undergraduate business s
 
 This lab manual involves step by-step tutorials to solve data-analysis problems using R and RStudio open source software. Students can also choose to use RStudio Cloud. 
 
-This lab manual is adapted in part from upon the PSYC 3400 Lab Manual by Matthew J. C. Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga.
+This lab manual is adapted by Dawn E. Wright in part from upon the PSYC 3400 Lab Manual by Matthew J. C. Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga.
 [Answering questions with data: Lab Manual](https://drdawnstats.github.io/new_stats-lab/)
 
 Additions and changes to the PSYC 3400 Lab Manual are indicated within the manual.
@@ -53,7 +53,7 @@ This lab manual is released under a creative commons licence [CC BY-SA 4.0](http
 
 ### Attributions
 
-This lab manual is an adaption from the PSYCH 3400 Lab Manual authored by Matt Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga. 
+This lab manual is an adaption by Dawn E. Wright from the PSYCH 3400 Lab Manual authored by Matt Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga. 
 
 
 ### CC BY-SA 4.0 license

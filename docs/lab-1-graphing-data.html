@@ -420,7 +420,7 @@ The commonality between science and art is in trying to see profoundly - to deve
 <div id="get-some-data" class="section level3" number="1.2.2">
 <h3><span class="header-section-number">1.2.2</span> Get some data</h3>
 <p>In order to graph data, we need to have some data first…Actually, with R, that’s not quite true. Run this bit of code and see what happens:
-<strong>Note that when you hover your cursor over the code, a clipboard icon appears on the right side.</strong> Just click on that icon to copy the code. Then you can paste it in your lab document.</p>
+<strong>Note that when you hover your cursor over the code, a clipboard icon appears on the right side.</strong> Just click on that icon to copy the code. Then you can paste it in your lab document in RStudio.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="lab-1-graphing-data.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">hist</span>(<span class="fu">rnorm</span>(<span class="dv">100</span>, <span class="at">mean=</span><span class="dv">50</span>, <span class="at">sd=</span><span class="dv">25</span>))</span></code></pre></div>
 <p><img src="Statistics_Lab_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
 <p>You just made R sample 100 numbers, and then plot the results in a histogram. Pretty neat. We’ll be doing some of this later in the course, where get R to make fake data for us, and then we learn to think about how data behaves under different kinds of assumptions.</p>
@@ -435,11 +435,11 @@ The commonality between science and art is in trying to see profoundly - to deve
 </ol>
 <div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="lab-1-graphing-data.html#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(data.table)</span>
 <span id="cb3-2"><a href="lab-1-graphing-data.html#cb3-2" aria-hidden="true" tabindex="-1"></a>nyc_films <span class="ot">&lt;-</span> <span class="fu">fread</span>(<span class="st">&quot;https://raw.githubusercontent.com/CrumpLab/statisticsLab/master/data/Film_Permits.csv&quot;</span>)</span></code></pre></div>
-<p>If you are having issues getting the data loaded, then talk to your lab instructor</p>
+<p>If you are having issues getting the data loaded, reach out to your instructor because you will be downloading and analyzing all kinds of data files this term.</p>
 </div>
 <div id="look-at-the-data" class="section level3" number="1.2.3">
 <h3><span class="header-section-number">1.2.3</span> Look at the data</h3>
-<p>You will be downloading and analyzing all kinds of data files this semester. We will follow the very same steps every time. The steps are to load the data, then look at it. You want to see what you’ve got.</p>
+<p>We will follow the very same steps every time. The steps are to load the data, then look at it. You want to see what you’ve got.</p>
 <p>In R-studio, you will now see a variable called <code>nyc_films</code> in the top right-hand corner of the screen, in the environment tab. If you click this thing, it will show you the contents of the data in a new window. The data is stored in something we call a <code>data frame</code>. It’s R lingo, for the thing that contains the data. Notice is a square, with rows going across, and columns going up and down. It looks kind of like an excel spreadsheet if you are familiar with Excel.</p>
 <p>It’s useful to know you can look at the data frame this way if you need to. But, this data frame is really big, it has 50,728 rows of data. That’s a lot too much to look at.</p>
 <div id="summarytools" class="section level4" number="1.2.3.1">

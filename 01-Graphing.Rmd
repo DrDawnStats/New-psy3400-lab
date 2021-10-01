@@ -57,7 +57,7 @@ Let's begin.
 ### Get some data
 
 In order to graph data, we need to have some data first...Actually, with R, that's not quite true. Run this bit of code and see what happens:
-**Note that when you hover your cursor over the code, a clipboard icon appears on the right side.** Just click on that icon to copy the code. Then you can paste it in your lab document.
+**Note that when you hover your cursor over the code, a clipboard icon appears on the right side.** Just click on that icon to copy the code. Then you can paste it in your lab document in RStudio.
 
 ```{r}
 hist(rnorm(100, mean=50, sd=25))
@@ -81,11 +81,11 @@ library(data.table)
 nyc_films <- fread("https://raw.githubusercontent.com/CrumpLab/statisticsLab/master/data/Film_Permits.csv")
 ```
 
-If you are having issues getting the data loaded, then talk to your lab instructor
+If you are having issues getting the data loaded, reach out to your instructor because you will be downloading and analyzing all kinds of data files this term. 
 
 ### Look at the data
 
-You will be downloading and analyzing all kinds of data files this semester. We will follow the very same steps every time. The steps are to load the data, then look at it. You want to see what you've got.
+We will follow the very same steps every time. The steps are to load the data, then look at it. You want to see what you've got.
 
 In R-studio, you will now see a variable called `nyc_films` in the top right-hand corner of the screen, in the environment tab. If you click this thing, it will show you the contents of the data in a new window. The data is stored in something we call a `data frame`. It's R lingo, for the thing that contains the data. Notice is a square, with rows going across, and columns going up and down. It looks kind of like an excel spreadsheet if you are familiar with Excel.
 

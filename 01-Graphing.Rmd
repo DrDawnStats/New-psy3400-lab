@@ -9,7 +9,9 @@ The commonality between science and art is in trying to see profoundly - to deve
 ---Edward Tufte
 </span>
 
-As we have found out from the textbook, when we measure things, we get lots of numbers. Too many. Sometimes so many your head explodes just thinking about them. One of **the most helpful things** you can do to begin to make sense of these numbers, is to look at them in graphical form. Unfortunately, for sight-impaired individuals, graphical summary of data is much more well-developed than other forms of summarizing data for our human senses. Some researchers are developing auditory versions of visual graphs, a process called **sonification**, but we aren't prepared to demonstrate that here. Instead, we will make charts, and plots, and things to look at, rather than the numbers themselves, mainly because these are tools that are easiest to get our hands on, they are the most developed, and they work really well for visual summary. If time permits, at some point I would like to come back here and do the same things with sonification. I think that would be really, really cool!
+As we have found out from the textbook, when we measure things, we get lots of numbers. Too many. Sometimes so many your head explodes just thinking about them. One of **the most helpful things** you can do to begin to make sense of these numbers, is to look at them in graphical form. 
+\
+Unfortunately, for sight-impaired individuals, graphical summary of data is much more well-developed than other forms of summarizing data for our human senses. Some researchers are developing auditory versions of visual graphs, a process called **sonification**, but we aren't prepared to demonstrate that here. Instead, we will make charts, and plots, and things to look at, rather than the numbers themselves, mainly because these are tools that are easiest to get our hands on, they are the most developed, and they work really well for visual summary. 
 
 ## General Goals:
 
@@ -21,16 +23,16 @@ Our general goals for this first lab are to get your feet wet, so to speak. We'l
 
 ### Important info
 
-1. Data for NYC film permits was obtained from the NYC open data website: <a href="https://opendata.cityofnewyork.us/" >NYC Open Data</a> 
+1. Data for NYC film permits was obtained from the NYC open data website: <a href="https://opendata.cityofnewyork.us/" >NYC Open Data</a>  
 
 
-2. Gapminder is an educational non-profit focusing on helping people avoid the common misconceptions often found social media and other non-scientific sources. You should take some time to explore and learn from this group trying to improve our data literacy: <a href="https://www.gapminder.org/" >Gapminder: You are probably wrong about that!</a>
+2. Gapminder is an educational non-profit focusing on helping people avoid the common misconceptions often found on social media and other non-scientific sources. You should take some time to explore and learn from this group trying to improve our data literacy: <a href="https://www.gapminder.org/" >Gapminder: You are probably wrong about that!</a>
 
 If you have not yet watched the video [8.5 minutes] showing the status of the UN's Sustainable Development Goals (SDG), please do so now. It should help you understand why data visualization is a key data literacy skill:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v7WUpgPZzpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+\
 \
 **The data for lab 1 is in the Lab zip folder you downloaded in section 0.2.1 above, but you will find more download links in each of the module lab instructions below.**
 

@@ -388,3 +388,4 @@ lab-3-correlation-and-regression
 lab-4-normal-distribution-and-central-limit-theorem
 lab-5-basics-of-hypothesis-testing
 lab-7-anova
+module-1-lab-graphing-data

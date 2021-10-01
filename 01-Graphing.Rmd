@@ -1,4 +1,4 @@
-# Lab 1: Graphing Data
+# Module 1 Lab: Graphing Data
 
 <script>
 $("#coverpic").hide();
@@ -21,11 +21,18 @@ Our general goals for this first lab are to get your feet wet, so to speak. We'l
 
 ### Important info
 
-1. Data for NYC film permits was obtained from the NYC open data website. The .csv file can be found here: <a href="https://github.com/DrDawnStats/new_stats-lab/blob/main/data/Film_Permits.csv" download>Film_Permits.csv</a>
+1. Data for NYC film permits was obtained from the NYC open data website: <a href="https://opendata.cityofnewyork.us/" >NYC Open Data</a> 
 
 
-2. Gapminder data from the gapminder project (copied from the R gapminder library) can be downloaded in .csv format here: <a href="https://github.com/DrDawnStats/new_stats-lab/blob/main/data/gapminder.csv" download>gapminder.csv</a>
+2. Gapminder is an educational non-profit focusing on helping people avoid the common misconceptions often found social media and other non-scientific sources. You should take some time to explore and learn from this group trying to improve our data literacy: <a href="https://www.gapminder.org/" >Gapminder: You are probably wrong about that!</a>
 
+If you have not yet watched the video [8.5 minutes] showing the status of the UN's Sustainable Development Goals (SDG), please do so now. It should help you understand why data visualization is a key data literacy skill:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7WUpgPZzpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+\
+**The data for lab 1 is in the Lab zip folder you downloaded in section 0.2.1 above, but you will find more download links in each of the module lab instructions below.**
 
 ## R 
 
@@ -43,7 +50,7 @@ You will be completing each lab by writing your code and notes in an R Markdown 
 5. Watch this screencast to help you get started.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/voMIi1fpe5c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+\
 We also wrote down the steps [here](https://crumplab.github.io/statisticsLab/software.html#how-to-complete-the-r-labs).
 
 There are numerous resources for learning about R, we put some of them on the course website, under the [resouces page](https://crumplab.github.io/psyc3400/Resources.html). You will find these resources helpful as you learn. We also have a kind of [general introduction to R and Rstudio here](https://crumplab.github.io/statisticsLab/software.html#r). This shows you how to download R and R-studio at home (it's free). Throughout the labs you will be writing things called R Markdown documents. You will learn how to do this throughout the labs, but it can also be worthwhile reading other tutorials, such as the one provided by [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html).

@@ -1,4 +1,4 @@
-# Module 8 Lab: Personal Data Project
+# Module 8 Lab: Personal Data Project (PDP)
 
 <script>
 $("#coverpic").hide();

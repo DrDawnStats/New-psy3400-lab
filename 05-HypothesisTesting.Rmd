@@ -1,4 +1,4 @@
-# Module 5 Lab: Basics of Hypothesis Testing
+# Module 5 Lab: Basics of Hypothesis Testing 
 
 <script>
 $("#coverpic").hide();

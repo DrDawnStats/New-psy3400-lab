@@ -397,3 +397,7 @@ module-5-lab-basics-of-hypothesis-testing
 module-6-lab-a-t-test-one-sample-paired-sample
 module-6-lab-b-independent-samples-t-test
 module-7-lab-anova---analysis-of-variance
+module-6-lab-part-a-t-test-one-sample-paired-sample
+module-6-lab-part-b-independent-samples-t-test
+module-7-lab-test-more-than-2-means---anova---analysis-of-variance
+module-8-lab-personal-data-project-pdp

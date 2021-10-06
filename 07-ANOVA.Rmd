@@ -1,4 +1,4 @@
-# Module 7 Lab: ANOVA - Analysis of Variance
+# Module 7 Lab: Test more than 2 means - ANOVA - Analysis of Variance
 
 <script>
 $("#coverpic").hide();

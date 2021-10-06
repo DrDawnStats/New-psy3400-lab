@@ -1,4 +1,4 @@
-# Module 6 Lab a: t-Test (one-sample, paired sample )
+# Module 6 Lab Part a: t-Test (one-sample, paired sample ) 
 
 <script>
 $("#coverpic").hide();

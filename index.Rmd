@@ -33,7 +33,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 knitr::include_graphics("LabmanualCover.png")
 ```
 
-Preliminary Version 0.91 = Sept 27, 2021)
+Preliminary Version 0.92 = Oct 6, 2021)
 
 
 This is the companion lab to our free data literacy for undergraduate business students textbook, [Business Data Literacy](https://drdawnstats.github.io/bus_data_lit_text/).

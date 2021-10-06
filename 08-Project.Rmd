@@ -1,4 +1,4 @@
-# Lab 8 Personal Data Project
+# Module 8 Lab: Personal Data Project
 
 <script>
 $("#coverpic").hide();

@@ -1,4 +1,4 @@
-# Lab 6b: t-Test (Independent Sample)
+# Module 6 Lab b: Independent Samples t-Test
 
 <script>
 $("#coverpic").hide();

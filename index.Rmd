@@ -118,6 +118,7 @@ knitr::include_graphics('figures/rlogo.jpg')
 In this course we will be using R as a tool to analyze data, and as a tool to help us gain a better understanding of what our analyses are doing. Throughout each lab we will show you how to use R to solve specific problems, and then you will use the examples to solve homework and lab assignments.    
 \
 **Remember this is not a "coding" or "programming" course! We will provide you with "code snippets" which you will copy/paste into your lab document to run.**  
+
 \ 
 R is a very deep programming language, and in many ways we will only be skimming the surface of what R can do. Along the way, there will be many pointers to more advanced techniques that interested students can follow to become experts in using R for data-analysis, and computer programming in general.  
 \ 
@@ -130,10 +131,12 @@ R is primarily a computer programming language for statistical analysis. It is *
 \ 
 If you want to know a bit about the history of R. watch this 1.5 minute video: Be forewarned the background music is a bit loud but the video is short and worth watching anyway.  
 \
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XcBLEVknqvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XcBLEVknqvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 \
-### Why R?
+
+### Why R?  
+
 \ 
 There are lots of different options for using computers to analyze data, why use R?. The options all have pros and cons, and can be used in different ways to solve a range of different problems. Some software allows you to load in data, and then analyze the data by clicking different options in a menu. This can sometimes be fast and convenient.  
 \  
@@ -161,7 +164,7 @@ R-studio is also in the cloud. This means that if you want to use R and R-studio
 \ 
 One slight disadvantage, which will not likely apply to students in this course, is that there is a limit (25 hours) to how much free time you get with the free version of RStudio Cloud. This usually becomes a problem only if a student gets "into" R/RStudio and ventures out into their own projects. But even then, if you do not want to buy additional time [called the Plus plan at $5 per month for an additional 75 hours] you can always download your work to your local computer and use RStudio Desktop.
 
-1. sign up for an R-studio cloud account here: [https://rstudio.cloud](https://rstudio.cloud) You want the Cloud Free plan.
+1. Sign up for an R-studio cloud account here: [https://rstudio.cloud](https://rstudio.cloud) You want the Cloud Free plan.
 
 2. You can make new R projects, work inside them, and everything is saved in the cloud!
 

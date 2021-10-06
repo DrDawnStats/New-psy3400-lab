@@ -1,4 +1,4 @@
-# Lab 2: Descriptive Statistics
+# Module 2 Lab: Descriptive Statistics
 
 <script>
 $("#coverpic").hide();

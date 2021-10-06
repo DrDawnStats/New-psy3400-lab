@@ -42,7 +42,7 @@ If you have not yet watched the video [8.5 minutes] showing the status of the UN
 
 You will be completing each lab by writing your code and notes in an R Markdown document. 
 
-1. Download the [RMarkdownsLab.zip](https://github.com/CrumpLab/statisticsLab/raw/master/RMarkdownsLab.zip) to your computer.
+1. Download the [RMarkdownsLab.zip](https://github.com/DrDawnStats/new_stats-lab/blob/main/RMarkdownsLab.zip) to your computer.
 2. Unzip the file, this will produce a new folder with three important parts
     a. data folder (contains data files for all labs)
     b. LabTemplates folder (contains blank templates for completing all the labs)

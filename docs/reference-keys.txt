@@ -389,3 +389,11 @@ lab-4-normal-distribution-and-central-limit-theorem
 lab-5-basics-of-hypothesis-testing
 lab-7-anova
 module-1-lab-graphing-data
+module-8-lab-personal-data-project
+module-2-lab-descriptive-statistics
+module-3-lab-correlation-and-regression
+module-4-lab-normal-distribution-and-central-limit-theorem
+module-5-lab-basics-of-hypothesis-testing
+module-6-lab-a-t-test-one-sample-paired-sample
+module-6-lab-b-independent-samples-t-test
+module-7-lab-anova---analysis-of-variance

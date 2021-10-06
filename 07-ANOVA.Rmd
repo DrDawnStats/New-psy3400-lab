@@ -1,4 +1,4 @@
-# Lab 7 ANOVA
+# Module 7 Lab: ANOVA - Analysis of Variance
 
 <script>
 $("#coverpic").hide();
@@ -9,6 +9,7 @@ The analysis of variance is not a mathematical theorem, but rather a convenient 
 ---R. A. Fisher
 </span>
 
+**Note: this lab's research question and data will be revised,  The process steps and flow will be similar.**
 
 <div class="marginnote">
 This lab is modified and extended from [Open Stats Labs](https://sites.trinity.edu/osl). Thanks to Open Stats Labs (Dr. Kevin P. McIntyre) for their fantastic work.

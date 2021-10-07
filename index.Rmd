@@ -87,7 +87,7 @@ If you want to contribute to this version of the lab manual, you could make pull
 
 Thanks to Dr. Crump and his team for creating such a great resource.
 
-# Software {-}
+# Software
 
 <script>
 $("#coverpic").hide();
@@ -105,7 +105,7 @@ Data files used for the labs are all taken from open data sources. Links are pro
 
 All of the data files in .csv format are also available to [download as a .zip file](https://github.com/DrDawnStats/new_stats-lab/blob/main/data/data_csv.zip)
 
-## R
+## R "Statistical Programming" Language
 
 <div class="marginnote">
 
@@ -151,7 +151,7 @@ We used R to write this lab manual. And, we use R all the time for research, bec
 
 ### RStudio
 \ 
-RStudio provides a more user-friendly interface for many people. This 5-minute video is a few years old but shows the basics of RStudio and highlights why is a wise move to use it. 
+RStudio provides a more user-friendly interface for many people. This 5-minute video is a few years old but shows the basics of RStudio and highlights why is a wise move to use it. That is why this course is written around RStudio.
 
 \  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/riONFzJdXcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
@@ -163,6 +163,8 @@ R-studio is also in the cloud. This means that if you want to use R and R-studio
 \ 
 One slight disadvantage, which will not likely apply to students in this course, is that there is a limit (25 hours) to how much free time you get with the free version of RStudio Cloud. This usually becomes a problem only if a student gets "into" R/RStudio and ventures out into their own projects. But even then, if you do not want to buy additional time [called the Plus plan at $5 per month for an additional 75 hours] you can always download your work to your local computer and use RStudio Desktop.
 
+We strongly recommend you use RStudio Cloud because it is simpler to get "installed" and working. In fact, there is nothing to install on your local computer. Everything is in the cloud, so all you need is your browser.
+
 Here is a "How to" video on registering for and initial use of RStudio Cloud:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y8F2A1s7OAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -170,9 +172,7 @@ Here is a "How to" video on registering for and initial use of RStudio Cloud:
 \ 
 1. Sign up for an R-studio cloud account here: [https://rstudio.cloud](https://rstudio.cloud) You want the Cloud Free plan.
 
-2. You can make new R projects, work inside them, and everything is saved in the cloud!
-
-3. To see how everything would work, follow the steps in this video. You will need to download this [.zip file to your computer to get started](https://github.com/CrumpLab/statisticsLab/raw/master/RstudioCloud.zip)
+2. To see how everything would work, follow the steps in this video. You will need to download this [.zip file to your computer to get started](https://github.com/CrumpLab/statisticsLab/raw/master/RstudioCloud.zip)
 
 The link to the video is [https://www.youtube.com/watch?v=WsbnV0t7FE4](https://www.youtube.com/watch?v=WsbnV0t7FE4), or you can watch it here:
 
@@ -180,7 +180,7 @@ The link to the video is [https://www.youtube.com/watch?v=WsbnV0t7FE4](https://w
 
 ### Installing R and R Studio
 
-You will need to download and install both R and RStudio. Although you can go to the R Project website and install R from there, you can also go directly to the RStudio webpage and get links to install both R and RStudio.
+Because there may be times you want to work off line, you should also install R and RStudio desktop if you have access to administrator rights for your local computer. You will need to download and install both R and RStudio. Although you can go to the R Project website and install R from there, you can also go directly to the RStudio webpage and get links to install both R and RStudio.
 
 Here is the link to the R Project website:  <http://www.r-project.org>
 

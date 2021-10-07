@@ -236,7 +236,7 @@ The training part includes step-by-step examples of R code that solves particula
 \ 
 The generalization part gives short assignments to change parts of the provided code to solve a new problem. The writing part tasks you with answering questions about statitiscal concepts. 
 
-*Again, remember all the instructions you should need to complete each lab are in the individual lab sections below. This information is supplemental.*
+**Again, remember all the instructions you should need to complete each lab are in the individual lab sections below. This information is supplemental.**
 
 The way to complete each lab is to open a new R Markdown document in R-studio, and then document your progression through each of the parts. By doing this, you will become familiar with how R and R-studio works, and how to create documents that preserve both the code and your notes all in one place. There are a few tricks to getting started that are outline below.
 

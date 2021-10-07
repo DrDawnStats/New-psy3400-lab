@@ -1,6 +1,6 @@
 --- 
 title: "Business Data Literacy: Lab Manual"
-author: "D.E. Wright"
+author: "D.E Wright"
 date: "9/30/2021"
 site: bookdown::bookdown_site
 output: 
@@ -163,6 +163,11 @@ R-studio is also in the cloud. This means that if you want to use R and R-studio
 \ 
 One slight disadvantage, which will not likely apply to students in this course, is that there is a limit (25 hours) to how much free time you get with the free version of RStudio Cloud. This usually becomes a problem only if a student gets "into" R/RStudio and ventures out into their own projects. But even then, if you do not want to buy additional time [called the Plus plan at $5 per month for an additional 75 hours] you can always download your work to your local computer and use RStudio Desktop.
 
+Here is a "How to" video on registering for and initial use of RStudio Cloud:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y8F2A1s7OAU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+\ 
 1. Sign up for an R-studio cloud account here: [https://rstudio.cloud](https://rstudio.cloud) You want the Cloud Free plan.
 
 2. You can make new R projects, work inside them, and everything is saved in the cloud!

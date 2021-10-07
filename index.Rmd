@@ -196,12 +196,10 @@ Find the download link on the front-page, and then download R studio desktop ver
 
 
 ### R studio notes and tips
-
-```{r,eval=FALSE,echo=F,fig.align="center"}
-knitr::include_graphics("rstudio-screenshot.jpg")
-```
+You may not need the information below this point but it is here for reference. All the instructions you need for the labs will be in the individual lab section.
 
 
+![](images/rstudio-screenshot.jpg)
 #### Console
 
 When you open up R studio you will see three or four main windows (the placement of each are configurable). 

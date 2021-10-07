@@ -402,3 +402,4 @@ module-6-lab-part-b-independent-samples-t-test
 module-7-lab-test-more-than-2-means---anova---analysis-of-variance
 module-8-lab-personal-data-project-pdp
 r-statistical-programming-language
+software

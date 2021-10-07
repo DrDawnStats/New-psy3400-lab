@@ -197,8 +197,8 @@ Find the download link on the front-page, and then download R studio desktop ver
 
 ### R studio notes and tips
 
-```{r 2rstudiod, fig.cap="The R-studio workspace", echo=FALSE,dev='png'}
-knitr::include_graphics('figures/FigRstudio.pdf')
+```{r,eval=FALSE,echo=F,fig.align="center"}
+knitr::include_graphics("rstudio-screenshot.jpg")
 ```
 
 

@@ -46,6 +46,7 @@ You will be completing each lab by writing your code and notes in an R Markdown 
 
 2. Unzip the folder. There are two zipped folders inside. One, RStudioLabCloud.zip is to be used if you are using RStudio Cloud. The other, RStudioLabDesktop.zip is to be used if you are using RStudio on your desktop.
 
+
 Note the lab templates and data files in them are identical. The "desktop" folder has an additinal file which will be useful for the desktop but not for the cloud.
 
 Watch this intro vidow for the labs using RStudioCloud:

@@ -42,7 +42,16 @@ If you have not yet watched the video [8.5 minutes] showing the status of the UN
 
 You will be completing each lab by writing your code and notes in an R Markdown document. 
 
-1. Download the [RMarkdownsLab.zip](https://www.dropbox.com/s/3nycx86onrrxubu/RMarkdownsLab.zip?dl=0 ) to your computer. Note this link is to a Dropbox folder where you can download the Zip file. You do not have to have a Dropbox account or sign in to Dropbox. 
+1. Download the [Lab_files.zip](hhttps://www.dropbox.com/s/z3uhu05bn0btye6/Lab_files.zip?dl=0) to your computer. Note this link is to a Dropbox folder where you can download the Zip file. You do not have to have a Dropbox account or sign in to Dropbox. 
+
+2. Unzip the folder. There are two zipped folders inside. One, RStudioLabCloud.zip is to be used if you are using RStudio Cloud. The other, RStudioLabDesktop.zip is to be used if you are using RStudio on your desktop.
+
+Note the lab templates and data files in them are identical. The "desktop" folder has an additinal file which will be useful for the desktop but not for the cloud.
+
+Watch this intro vidow for the labs using RStudioCloud:
+
+
+
 2. Unzip the file, this will produce a new folder with three important parts
     a. data folder (contains data files for all labs)
     b. LabTemplates folder (contains blank templates for completing all the labs)

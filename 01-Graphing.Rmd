@@ -38,7 +38,7 @@ If you have not yet watched the video [8.5 minutes] showing the status of the UN
 
 ## R 
 
-### Download the lab templates
+### Download the lab folders
 
 You will be completing each lab by writing your code and notes in an R Markdown document. 
 
@@ -52,6 +52,16 @@ Note the lab templates and data files in them are identical. The "desktop" folde
 <iframe width="560" height="315" src="https://www.youtube.com/embed/52WlazGlTM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Watch this intro video for the labs using RStudioCloud:
+
+\ 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/11w2lGVBt6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+\ 
+
+
+
+
+
 
 
 

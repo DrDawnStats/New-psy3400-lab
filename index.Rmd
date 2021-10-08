@@ -1,7 +1,7 @@
 --- 
 title: "Business Data Literacy: Lab Manual"
 author: "Dawn Wright"
-date: "9/30/2021"
+date: "10/07/2021"
 site: bookdown::bookdown_site
 output: 
   bookdown::gitbook:
